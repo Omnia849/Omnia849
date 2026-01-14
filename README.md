@@ -26,7 +26,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>GradLink – Web platform for graduation projects</b></td>
+      <td><b>Hotel Management/Todo App</b></td>
       <td>⭐ 0</td>
       <td>📚 0</td>
       <td>🛎 0</td>
